@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "html.format.wrapLineLength": 120,
+  "html.format.wrapAttributes": "auto",
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "files.associations": {
+    "*.html": "html"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
+}
