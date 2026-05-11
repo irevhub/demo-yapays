@@ -1,0 +1,45 @@
+:root{
+  /* KTS Assistance inspired palette: dark executive navy, cloud surface, gold accent, cyan/teal system colors */
+  --font-sans: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  --topbar-h: 58px;
+  --navbar-h: 78px;
+  --content-max: 1344px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --radius-xl: 28px;
+
+  --kts-navy-950:#050719;
+  --kts-navy-900:#090D2D;
+  --kts-navy-800:#101943;
+  --kts-navy-700:#172A5A;
+  --kts-slate-700:#4B5568;
+  --kts-slate-500:#6B7280;
+  --kts-line:#E4E8F0;
+  --kts-paper:#FFFFFF;
+  --kts-cloud:#F7F9FC;
+  --kts-ice:#EEF8FF;
+
+  --kts-blue:#14B4EB;
+  --kts-teal:#3CBEB4;
+  --kts-green:#96C83C;
+  --kts-gold:#FFAF28;
+  --kts-red:#FA4655;
+  --kts-purple:#A596D2;
+
+  --shadow-soft:0 18px 42px rgba(5,7,25,.08);
+  --shadow-panel:0 26px 80px rgba(5,7,25,.13);
+  --border:var(--kts-line);
+  --text:var(--kts-navy-900);
+  --muted:var(--kts-slate-500);
+  --surface:var(--kts-paper);
+  --body-bg:#F6F8FC;
+
+  --user-accent:var(--kts-gold);
+  --user-accent-2:var(--kts-teal);
+  --user-ink:var(--kts-navy-900);
+  --admin-accent:var(--kts-blue);
+  --admin-accent-2:var(--kts-purple);
+  --admin-ink:var(--kts-navy-800);
+  --danger:#C93846;
+}
